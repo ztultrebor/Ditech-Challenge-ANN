@@ -1,5 +1,7 @@
-# Project5
-Udacity Machine Learning Nanodegree Final Project
+## Attempting the DiTech Challenge with an Artificial Neural Network
+### Udacity Machine Learning Nanodegree Capstone Project
+
+![Alt text](/GSRGraph.png?raw=true "Optional Title")
 
 In order to run the Jupyter notebooks properly, please do the following
 
